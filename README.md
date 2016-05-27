@@ -1,7 +1,7 @@
 # csep-italy
 Analysis of seismicity forecasts in the context of the CSEP Italy experiment
 
-These are my notes based on what I did to roughly evaluate CSEP-Italy 5 yr forecasts for the final meeting of the REAKT project. The codes I used for this sit in work/code/CSEP Italy/assessment of 5 yr forecasts for REAKT final meeting
+These are my notes based on what I did to roughly evaluate CSEP-Italy 5 yr forecasts for the final meeting of the REAKT project.
 
 # For consistency tests
 One of the things I do generically here is to find the bins where each event in the catalog falls, assuming that all forecasts have the same structure/order. I do that for the full forecasts, the magnitude-reduced forecasts, and the space-reduced forecasts. In the following, I list the scripts that must be run and note which test(s) is (are) dependent
